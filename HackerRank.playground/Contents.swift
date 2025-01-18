@@ -1,3 +1,3 @@
 import UIKit
 
-var greeting = "Hello, playground"
+pageCount(n: 6, p: 5)
